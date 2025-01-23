@@ -13,7 +13,7 @@ We believe in collaboration and learning together! Here’s how you can contribu
 👩‍💻 **Useful Resources**  
 - 📚 **Documentation**: Access tutorials, guides, and cheat sheets to help you on your coding journey.  
 - 🎥 **Videos**: Watch our recorded workshops and coding sessions for in-depth learning.  
-- 🔗 [Explore More Resources](#) (Link to your resource page or repository).  
+- 🔗 [Explore More Resources](#).  
 
 🍿 **Fun Facts About Us**  
 - Our team starts every challenge planning session with **coffee and brainstorming sessions** ☕💡.  
