@@ -21,6 +21,6 @@ We believe in collaboration and learning together! Here’s how you can contribu
 - Our motto: "Clean code, clear mind, bold impact."  
 
 🧙 **A Little Magic for You**  
-Remember, you can do mighty things with the power of collaboration and clean code. Let’s build a brighter future—one line of code at a time. 🚀
+Remember, you can do mighty things with the power of collaboration and clean code. Let’s build a brighter future one line of code at a time. 🚀
 
 
